@@ -2,7 +2,8 @@
 
 Sou alan, 
 estou cursando Desenvolvimento de Sistema atualmente na escola brigadeiro eduardo gomes faço ensino médio técnico, estou sempre aprimorando minhas habilidades e meu conhecimento.
-[![Linkedin Badge]	https://www.linkedin.com/public-profile/settings?trk=public-profile
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alan%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alansilvaa7/)](https://www.linkedin.com/in/alansilvaa7/)
 ---
 
 ## ⚡ Tecnologias que eu uso
